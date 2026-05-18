@@ -34,6 +34,7 @@ At the core of this project is a seamless integration of **App-like UI/UX design
 | **Churning Stars** | Critical 🚨 | > 210 Days | Historically High | Historically High | Immediate Intervention |
 
 * 📁 [View Python ML Notebook](scripts/01_B2B_Customer_Segmentation_KMeans.ipynb) 
+* 🎯 [Go to Customer Retention & ML Risk Assessment section](#2-customer-retention--ml-risk-assessment)
 
 ### 2. Holt-Winters Time-Series Forecasting
 * **Objective:** Generate Macro (company-wide) and Granular (Sub-Category level) revenue forecasts for Q1 2026.
