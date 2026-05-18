@@ -1,0 +1,21 @@
+CustomerID,CompanyName,CurrentSegment,ML_Cluster,ML_Persona,Recency,Frequency,Revenue,NetProfit
+1,Berlin Smart Hotel Group,B2B - Strategic Partner,2,Churning Stars (High Risk),244,20,368572.14,151535.79
+2,München Tech Logistics,B2B - Strategic Partner,0,Active Regulars (Low Margin),208,18,195957.31,80716.0
+3,Hamburg Maritime Solutions,B2B - Corporate,0,Active Regulars (Low Margin),172,13,126961.89,58372.74
+4,Stuttgart Auto-Smart,B2B - Corporate,1,Platinum Champions,121,15,310488.65,131652.11
+6,Frankfurt Data Center,B2B - Corporate,0,Active Regulars (Low Margin),157,12,146439.98,66014.5
+19,Chicago Smart Office Inc.,B2B - Strategic Partner,1,Platinum Champions,1,22,436019.73,182194.69999999998
+20,NYC Secure Living,B2B - Strategic Partner,1,Platinum Champions,91,18,348051.01,147023.32
+21,Austin Tech Rentals,B2B - Strategic Partner,0,Active Regulars (Low Margin),147,15,179604.79,78010.78
+22,Silicon Valley IoT Lab,B2B - Corporate,1,Platinum Champions,96,14,226223.91,100794.24
+31,Las Vegas Smart Casinoware,VIP Consumer,3,Sleeping Giants,269,4,155753.25,77167.55
+34,Amsterdam Canal Tech,B2B - Strategic Partner,2,Churning Stars (High Risk),502,21,255251.85,112561.11
+35,Rotterdam Logistics AI,B2B - Corporate,1,Platinum Champions,162,15,241079.43,108503.23
+38,Paris Domotique SAS,B2B - Corporate,2,Churning Stars (High Risk),234,14,274879.85,122631.81999999999
+42,Rome Security Italia,B2B - Corporate,1,Platinum Champions,167,21,278048.31,125445.86
+43,Milan Fashion Security,B2B - Corporate,1,Platinum Champions,157,13,251073.21,108807.06
+46,Toronto Condo Security,B2B - Corporate,2,Churning Stars (High Risk),300,13,312884.77999999997,140167.41999999998
+49,Madrid Smart Building,VIP Consumer,3,Sleeping Giants,161,5,198774.11000000002,95780.76
+50,Warsaw AI Hub,VIP Consumer,3,Sleeping Giants,101,6,268316.6,134440.84
+174,San Francisco IoT Ventures,B2B - Corporate,1,Platinum Champions,152,15,240528.65,105092.15
+175,New Orleans Secure Hospitality,B2B - Corporate,2,Churning Stars (High Risk),384,11,202598.07,95349.0
