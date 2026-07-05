@@ -30,7 +30,7 @@ At the core of this project is a seamless integration of **App-like UI/UX design
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Platinum Champions** | Low 🟢 | < 210 Days | High Volume | High Yield | VIP Loyalty & Retention |
 | **Active Regulars** | Low 🟢 | < 210 Days | Consistent | Moderate Yield | Upsell / Cross-sell |
-| **Sleeping Giants** | High 🔴 | ~ 180 Days | Historically Low | Historically High | Targeted Re-engagement |
+| **Sleeping Giants** | High 🔴 | ~ 210 Days | Historically Low | Historically High | Targeted Re-engagement |
 | **Churning Stars** | Critical 🚨 | > 210 Days | Historically High | Historically High | Immediate Intervention |
 
 * 📁 [View Python ML Notebook](scripts/01_B2B_Customer_Segmentation_KMeans.ipynb) | 🎯 [See it in Action (Dashboard)](#2-customer-retention--ml-risk-assessment)
