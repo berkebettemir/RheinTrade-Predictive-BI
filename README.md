@@ -6,7 +6,7 @@
 ![DAX](https://img.shields.io/badge/Advanced_DAX-Data_Modeling-005571?style=for-the-badge)
 
 ## 📌 Executive Summary
-**RheinTrade Solutions V2** represents the advanced Business Intelligence and Machine Learning evolution of the foundational ERP system. Transitioning from SQL/Excel analytics, this comprehensive Power BI web-application empowers executives with dynamic deep-dive insights into product profitability, historical cost tracking, customer risk segmentation, and time-series revenue forecasting.
+**RheinTrade Solutions V2** represents the advanced Business Intelligence and Machine Learning evolution of the foundational ERP system. Transitioning from SQL/Excel analytics, this comprehensive Power BI dashboard empowers executives with dynamic deep-dive insights into product profitability, historical cost tracking, customer risk segmentation, and time-series revenue forecasting.
 
 At the core of this project is a seamless integration of **App-like UI/UX design**, **Advanced DAX temporal modeling**, and **Unsupervised Machine Learning (K-Means Clustering & Exponential Smoothing)** to identify high-value B2B partners at risk of churn and project future growth.
 
@@ -87,7 +87,7 @@ At the core of this project is a seamless integration of **App-like UI/UX design
 * ![Geographical Analysis Map](images/2.MapPage.png)
 
 ### 6. Persistent Sidebar Navigation & Global Control Panel
-* **Objective:** Transform the standard Power BI report into a seamless, SaaS-like web application with intuitive UI/UX design.
+* **Objective:** Transform the standard Power BI report into a seamless, SaaS-style application with intuitive UI/UX design.
 * **Insight:** Engineered a static left-hand navigation pane featuring synchronized global slicers (Year and Region) that maintain strict filter context across all analytical modules. 
 * **Smart Features:** Includes custom page navigation flows, a dedicated "Clear Filters" action powered by advanced bookmarking, and strategic alert shortcuts routing executives directly to the high-priority "Customer Risk" matrix.
 
